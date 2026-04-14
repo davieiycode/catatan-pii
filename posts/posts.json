@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ai-philosophy",
+    "title": "Filosofi Insinyur di Era AI",
+    "date": "2026-04-14",
+    "category": "Opini",
+    "tags": ["AI", "engineering", "philosophy"],
+    "summary": "Mengeksplorasi peran manusia di tengah gempuran teknologi kecerdasan buatan dan bagaimana kita harus bersikap.",
+    "file": "posts/ai-philosophy.md",
+    "image": "images/ai-philosophy.jpg",
+    "featured": true
+  },
+  {
+    "id": "writing-habit",
+    "title": "Membangun Kebiasaan Menulis Teknis",
+    "date": "2026-04-13",
+    "category": "Tutorial",
+    "tags": ["writing", "career", "productivity"],
+    "summary": "Menulis adalah cara terbaik untuk belajar dua kali. Berikut tips membangun habit menulis bagi para tech enthusiast.",
+    "file": "posts/writing-habit.md",
+    "image": "images/writing-habit.jpg",
+    "featured": false
+  },
+  {
+    "id": "gadget-review",
+    "title": "Review: Gadget Minimalis untuk Produktivitas",
+    "date": "2026-04-12",
+    "category": "Review",
+    "tags": ["hardware", "minimalism", "tech"],
+    "summary": "Bagaimana setup kerja minimalis bisa meningkatkan fokus dan output kerja kita secara signifikan.",
+    "file": "posts/gadget-review.md",
+    "image": "images/gadget-review.jpg",
+    "featured": false
+  },
+  {
+    "id": "halo-dunia",
+    "title": "Selamat Datang di Catatan Pii",
+    "date": "2026-04-11",
+    "category": "Personal",
+    "tags": ["welcome", "update"],
+    "summary": "Perkenalan singkat mengenai blog baru ini dan apa saja yang akan dibahas ke depannya.",
+    "file": "posts/halo-dunia.md",
+    "image": "images/welcome.jpg",
+    "featured": false
+  }
+]
